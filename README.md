@@ -62,7 +62,7 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 
 <h3>Code :</h3>
 
-```
+```python
 #Depth First Search 
 from collections import defaultdict
 def dfs(graph, start, visited, path):
